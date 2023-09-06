@@ -2,13 +2,13 @@
 <h3 align="center">"Enamórate de los problemas, no de la solución"</h3>
 
 
-<h4 align="center">
+<h6>
 - 📖 Actualmente estoy aprendiendo Java, MySQL, React, Mybatis, SpringBoot y PostgreSQL.
 
 - 👯 Busco participar en proyectos Frontend y Backend
 
 - 📥 Cómo contactarme 5610972490
-</h4>
+</h6>
 
 <h3 align="left">⛩️ Socials:</h3>
 <p align="left">
