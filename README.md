@@ -10,6 +10,7 @@
 
 
 <h3 align="left">⛩️ Socials:</h3>
+
 <p align="left">
 <a href="https://linkedin.com/in/victor-r-mosqueda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victor-r-mosqueda" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rodrickvkjr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rodrickvkjr" height="30" width="40" /></a>
@@ -20,6 +21,7 @@
 
 <h3>🎲 Github Stats:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deshih&theme=dark&border_radius=10&locale=es" alt="deshih" /></p>
+
 <h3>📸 Profile views</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deshih&label=Profile%20views&color=0e75b6&style=flat" alt="deshih" /> </p>
 
