@@ -21,7 +21,7 @@
 
 <h3>🎲 Github Stats:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deshih&theme=dark&border_radius=10&locale=es" alt="deshih" /></p>
-_______________________________________________________________________________________________________________________________________________________________________
+
 <h3>📸 Profile views</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deshih&label=Profile%20views&color=0e75b6&style=flat" alt="deshih" /> </p>
 
