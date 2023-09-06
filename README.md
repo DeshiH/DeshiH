@@ -3,7 +3,7 @@
 <h3 align="center">"Enamórate de los problemas, no de la solución"</h3>
 
 
-- 📖 Actualmente estoy aprendiendo Java, MySQL, React, Mybatis, SpringBoot y PostgreSQL.
+- 📖 Aprendiendo Java, MySQL, React, Mybatis, SpringBoot y PostgreSQL.
   
 - 👾 Actualmente desarrollando proyectos Frontend y Backend.
 
