@@ -3,11 +3,11 @@
 
 
 <h4 align="center">
-- 📖 Actualmente estoy aprendiendo **JavaScript, MySQL, React, Adobe XD, PostgreSQL.**
+- 📖 Actualmente estoy aprendiendo Java, MySQL, React, Mybatis, SpringBoot y PostgreSQL.
 
-- 👯 Busco participar en proyectos **Frontend y Backend**
+- 👯 Busco participar en proyectos Frontend y Backend
 
-- 📥 Cómo contactarme **5610972490**
+- 📥 Cómo contactarme 5610972490
 </h4>
 
 <h3 align="left">⛩️ Socials:</h3>
