@@ -1,7 +1,6 @@
-<h1 align="center">Bienvenido pensador, soy Deshi</h1>
-<h3 align="center">"Enamórate de los problemas, no de la solución"</h3>
+<h1 align="center">Bienvenido pensador, soy Deshi 🕹️</h1>
+<h2 align="center">"Enamórate de los problemas, no de la solución"</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deshih&label=Profile%20views&color=0e75b6&style=flat" alt="deshih" /> </p>
 
 - 📖 Actualmente estoy aprendiendo **JavaScript, MySQL, React, Adobe XD, PostgreSQL.**
 
@@ -20,4 +19,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deshih&" alt="deshih" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deshih&label=Profile%20views&color=0e75b6&style=flat" alt="deshih" /> </p>
 
