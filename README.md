@@ -1,12 +1,12 @@
 <h1 align="center">Bienvenido pensador, soy Deshi 🕹️</h1>
+
 <h3 align="center">"Enamórate de los problemas, no de la solución"</h3>
 
 
 - 📖 Actualmente estoy aprendiendo Java, MySQL, React, Mybatis, SpringBoot y PostgreSQL.
   
-- 👯 Busco participar en proyectos Frontend y Backend
+- 👾 Actualmente desarrollando proyectos Frontend y Backend.
 
-- 📥 Cómo contactarme 5610972490
 
 
 <h3 align="left">⛩️ Socials:</h3>
